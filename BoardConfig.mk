@@ -102,6 +102,7 @@ TW_EXCLUDE_DEFAULT_USB_INIT := true
 
 # Display
 TW_SCREEN_BLANK_ON_BOOT := true
+TW_MAX_BRIGHTNESS := 100
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel/brightness"
 TW_FRAMERATE := 60
 TW_Y_OFFSET := 50
